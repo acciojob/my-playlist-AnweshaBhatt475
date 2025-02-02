@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.container{
+	background-color: rgb(204, 204, 204)
+	
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:25px;
+	border-radius:3px;
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:25px;
+	border-radius:3px;
+}
+li{
+	list-style-type:none;
+	
+}
+	
+}
+
